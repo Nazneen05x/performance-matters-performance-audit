@@ -13,13 +13,14 @@ Ik heb de website van HvA getest (geanalyseerd). HvA.nl is de officiële website
 
  <strong>Datum:</strong> 20-04-2023
  
- Url: https://www.hva.nl/
+>  Url: https://www.hva.nl/
 
 <img src="https://user-images.githubusercontent.com/112861261/233565778-92ea8799-0c13-49f0-b901-bc5224ec7e6e.png" width="700">
 
 
-Schrijf een samenvatting van de testbevindingen en verwijs naar je Wiki voor een uitgebreide rapportage.
+Ik vond het een moeilijke audit test, de verbeteringen begrijp ik niet. Ik heb informatie moeten lezen om het te begrijpen. In mijn wiki kan je de audit test lezen.
 
+> https://github.com/Nazneen05x/performance-matters-performance-audit/wiki
 
 ## Licentie
 
