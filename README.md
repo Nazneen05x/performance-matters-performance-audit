@@ -1,6 +1,6 @@
 > _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Performance Audit 
+# Performance Audit 📊
 
 Doe een Performance Audit test op een bestaande website en rapporteer daar over.
 
@@ -22,6 +22,6 @@ Ik vond het een moeilijke audit test, de verbeteringen begrijp ik niet. Ik heb i
 
 > https://github.com/Nazneen05x/performance-matters-performance-audit/wiki
 
-## Licentie
+## Licentie 🔒
 
 This project is licensed under the terms of the [MIT license](./LICENSE).
